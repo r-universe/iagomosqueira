@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/iagomosqueira/iagomosqueira.r-universe.dev
 	branch = HEAD
+[submodule "FLBRP"]
+	path = FLBRP
+	url = https://github.com/flr/FLBRP
+	branch = devel
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
+	branch = devel
 [submodule "wmrkdown"]
 	path = wmrkdown
 	url = https://github.com/iagomosqueira/wmrkdown
