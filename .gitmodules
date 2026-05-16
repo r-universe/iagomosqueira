@@ -10,6 +10,14 @@
 	path = FLasher
 	url = https://github.com/flr/FLasher
 	branch = devel
+[submodule "mse"]
+	path = mse
+	url = https://github.com/flr/mse
+	branch = devel
+[submodule "msemodules"]
+	path = msemodules
+	url = https://github.com/flr/msemodules
+	branch = devel
 [submodule "wmrkdown"]
 	path = wmrkdown
 	url = https://github.com/iagomosqueira/wmrkdown
