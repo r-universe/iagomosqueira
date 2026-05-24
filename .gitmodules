@@ -22,6 +22,7 @@
 	path = spict
 	url = https://github.com/iagomosqueira/spict
 	branch = devel
+	subdir = spict
 [submodule "wmrkdown"]
 	path = wmrkdown
 	url = https://github.com/iagomosqueira/wmrkdown
