@@ -18,6 +18,10 @@
 	path = msemodules
 	url = https://github.com/flr/msemodules
 	branch = devel
+[submodule "spict"]
+	path = spict
+	url = https://github.com/iagomosqueira/spict
+	branch = devel
 [submodule "wmrkdown"]
 	path = wmrkdown
 	url = https://github.com/iagomosqueira/wmrkdown
