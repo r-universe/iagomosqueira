@@ -6,6 +6,10 @@
 	path = FLBRP
 	url = https://github.com/flr/FLBRP
 	branch = devel
+[submodule "FLa4a"]
+	path = FLa4a
+	url = https://github.com/flr/FLa4a
+	branch = tmb_translation
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
